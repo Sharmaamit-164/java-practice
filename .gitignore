@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled output
+out/
+
+# Build folders
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+
+# IntelliJ project files
+*.iml
